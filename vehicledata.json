@@ -1,0 +1,84 @@
+{
+	"1602": [{
+			"MSGTIME": "10/28/2016 11:45:59 PM",
+			"LATITUDE": "33.7682823",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.251804"
+		}, {
+			"MSGTIME": "10/28/2016 11:45:59 PM",
+			"LATITUDE": "33.761907",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.259038"
+		}, {
+			"MSGTIME": "10/28/2016 11:39:45 PM",
+			"LATITUDE": "33.7524873",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.271546"
+		}, {
+			"MSGTIME": "10/28/2016 11:39:45 PM",
+			"LATITUDE": "33.748283",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.280218"
+		},
+
+		{
+			"MSGTIME": "10/28/2016 11:28:39 PM",
+			"LATITUDE": "33.747138",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.291236"
+		}, {
+			"MSGTIME": "10/28/2016 11:28:39 PM",
+			"LATITUDE": "33.752527",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.292127"
+		}, {
+			"MSGTIME": "10/28/2016 11:28:39 PM",
+			"LATITUDE": "33.759330",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.291560"
+		}, {
+			"MSGTIME": "10/28/2016 11:28:39 PM",
+			"LATITUDE": "33.766267",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.292614"
+		}, {
+			"MSGTIME": "10/28/2016 11:28:39 PM",
+			"LATITUDE": "33.772221",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.289235"
+		}, {
+			"MSGTIME": "10/28/2016 11:28:39 PM",
+			"LATITUDE": "33.774805",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.278244"
+		}, {
+			"MSGTIME": "10/28/2016 11:28:39 PM",
+			"LATITUDE": "33.776189",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.267808"
+		}, {
+			"MSGTIME": "10/28/2016 11:28:39 PM",
+			"LATITUDE": "33.773421",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.257482"
+		}, {
+			"MSGTIME": "10/28/2016 11:52:02 PM",
+			"LATITUDE": "33.772543",
+			"VEHICLE": "1602",
+			"DIRECTION": "Eastbound",
+			"LONGITUDE": "-84.2525598"
+		}
+	]
+}
